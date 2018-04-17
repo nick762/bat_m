@@ -1,0 +1,6 @@
+QWidget#centralWidget{background-color: #A7FFEB;}
+QLabel {background-color: #009688; color: #A7FFEB}
+QLabel#label{background-color: #A7FFEB; color: #009688}
+QLabel#label_2{background-color: #A7FFEB; color: #009688}
+QLabel#label_3{background-color: #A7FFEB; color: #009688}
+QLCDNumber {background-color: #A7FFEB; color: #009688}
